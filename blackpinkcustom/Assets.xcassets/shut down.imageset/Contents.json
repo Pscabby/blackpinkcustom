@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "https---hk.hypebeast.com-files-2022-09-blackpink-shut-down-born-pink-tracklist-poster-release-01.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

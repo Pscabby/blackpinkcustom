@@ -11,6 +11,21 @@
 		28B0D38C2919542B00786CBF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28B0D38B2919542B00786CBF /* ContentView.swift */; };
 		28B0D38E2919542B00786CBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D38D2919542B00786CBF /* Assets.xcassets */; };
 		28B0D3912919542B00786CBF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3902919542B00786CBF /* Preview Assets.xcassets */; };
+		28B0D39E2919614F00786CBF /* shut down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D39D2919614F00786CBF /* shut down.mp3 */; };
+		28B0D3A02919725C00786CBF /* pink venom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D39F2919725C00786CBF /* pink venom.mp3 */; };
+		28B0D3A2291973D400786CBF /* du du du.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3A1291973D400786CBF /* du du du.mp3 */; };
+		28B0D3A4291B927600786CBF /* members.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28B0D3A3291B927600786CBF /* members.swift */; };
+		28B0D3BA2920E90800786CBF /* Amberstone.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3B92920E90800786CBF /* Amberstone.otf */; };
+		28B0D3BE2920E92500786CBF /* Littlecandy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3BD2920E92500786CBF /* Littlecandy.otf */; };
+		28B0D3C22920E94400786CBF /* Reys Monstera.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3C12920E94400786CBF /* Reys Monstera.otf */; };
+		28B0D3C42920E94F00786CBF /* Dimetone.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3C32920E94F00786CBF /* Dimetone.otf */; };
+		28B0D3CB2920EEB100786CBF /* Aachen Typewriter.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3CA2920EEB100786CBF /* Aachen Typewriter.ttf */; };
+		28B0D3CD2920EEBF00786CBF /* FatypeDEMO.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3CC2920EEBF00786CBF /* FatypeDEMO.otf */; };
+		28B0D3CF2920EEC800786CBF /* TelfordTown.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3CE2920EEC800786CBF /* TelfordTown.ttf */; };
+		28B0D3D12920EED500786CBF /* Adilla and Rita.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3D02920EED500786CBF /* Adilla and Rita.otf */; };
+		28B0D3D32920EEE000786CBF /* Amboera Script.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3D22920EEE000786CBF /* Amboera Script.otf */; };
+		28B0D3DF2922774000786CBF /* play with fire.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3DE2922774000786CBF /* play with fire.mp3 */; };
+		28B0D3E12922789900786CBF /* ice cream.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 28B0D3E02922789900786CBF /* ice cream.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,22 @@
 		28B0D38B2919542B00786CBF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		28B0D38D2919542B00786CBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28B0D3902919542B00786CBF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		28B0D39D2919614F00786CBF /* shut down.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "shut down.mp3"; sourceTree = "<group>"; };
+		28B0D39F2919725C00786CBF /* pink venom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "pink venom.mp3"; sourceTree = "<group>"; };
+		28B0D3A1291973D400786CBF /* du du du.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "du du du.mp3"; sourceTree = "<group>"; };
+		28B0D3A3291B927600786CBF /* members.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = members.swift; sourceTree = "<group>"; };
+		28B0D3B92920E90800786CBF /* Amberstone.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Amberstone.otf; sourceTree = "<group>"; };
+		28B0D3BD2920E92500786CBF /* Littlecandy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Littlecandy.otf; sourceTree = "<group>"; };
+		28B0D3C12920E94400786CBF /* Reys Monstera.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Reys Monstera.otf"; sourceTree = "<group>"; };
+		28B0D3C32920E94F00786CBF /* Dimetone.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Dimetone.otf; sourceTree = "<group>"; };
+		28B0D3C92920ECA200786CBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		28B0D3CA2920EEB100786CBF /* Aachen Typewriter.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Aachen Typewriter.ttf"; sourceTree = "<group>"; };
+		28B0D3CC2920EEBF00786CBF /* FatypeDEMO.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FatypeDEMO.otf; sourceTree = "<group>"; };
+		28B0D3CE2920EEC800786CBF /* TelfordTown.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = TelfordTown.ttf; sourceTree = "<group>"; };
+		28B0D3D02920EED500786CBF /* Adilla and Rita.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Adilla and Rita.otf"; sourceTree = "<group>"; };
+		28B0D3D22920EEE000786CBF /* Amboera Script.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amboera Script.otf"; sourceTree = "<group>"; };
+		28B0D3DE2922774000786CBF /* play with fire.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "play with fire.mp3"; sourceTree = "<group>"; };
+		28B0D3E02922789900786CBF /* ice cream.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ice cream.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +82,16 @@
 		28B0D3882919542B00786CBF /* blackpinkcustom */ = {
 			isa = PBXGroup;
 			children = (
+				28B0D3C92920ECA200786CBF /* Info.plist */,
 				28B0D3892919542B00786CBF /* blackpinkcustomApp.swift */,
 				28B0D38B2919542B00786CBF /* ContentView.swift */,
+				28B0D3A3291B927600786CBF /* members.swift */,
+				28B0D39D2919614F00786CBF /* shut down.mp3 */,
+				28B0D3DE2922774000786CBF /* play with fire.mp3 */,
+				28B0D39F2919725C00786CBF /* pink venom.mp3 */,
+				28B0D3E02922789900786CBF /* ice cream.mp3 */,
+				28B0D3A1291973D400786CBF /* du du du.mp3 */,
+				28B0D3B82920E8F100786CBF /* font */,
 				28B0D38D2919542B00786CBF /* Assets.xcassets */,
 				28B0D38F2919542B00786CBF /* Preview Content */,
 			);
@@ -65,6 +104,22 @@
 				28B0D3902919542B00786CBF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		28B0D3B82920E8F100786CBF /* font */ = {
+			isa = PBXGroup;
+			children = (
+				28B0D3B92920E90800786CBF /* Amberstone.otf */,
+				28B0D3BD2920E92500786CBF /* Littlecandy.otf */,
+				28B0D3C32920E94F00786CBF /* Dimetone.otf */,
+				28B0D3C12920E94400786CBF /* Reys Monstera.otf */,
+				28B0D3CA2920EEB100786CBF /* Aachen Typewriter.ttf */,
+				28B0D3CC2920EEBF00786CBF /* FatypeDEMO.otf */,
+				28B0D3D02920EED500786CBF /* Adilla and Rita.otf */,
+				28B0D3D22920EEE000786CBF /* Amboera Script.otf */,
+				28B0D3CE2920EEC800786CBF /* TelfordTown.ttf */,
+			);
+			path = font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +180,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28B0D39E2919614F00786CBF /* shut down.mp3 in Resources */,
+				28B0D3BA2920E90800786CBF /* Amberstone.otf in Resources */,
+				28B0D3CD2920EEBF00786CBF /* FatypeDEMO.otf in Resources */,
+				28B0D3BE2920E92500786CBF /* Littlecandy.otf in Resources */,
+				28B0D3A2291973D400786CBF /* du du du.mp3 in Resources */,
+				28B0D3A02919725C00786CBF /* pink venom.mp3 in Resources */,
 				28B0D3912919542B00786CBF /* Preview Assets.xcassets in Resources */,
+				28B0D3CF2920EEC800786CBF /* TelfordTown.ttf in Resources */,
+				28B0D3C42920E94F00786CBF /* Dimetone.otf in Resources */,
+				28B0D3C22920E94400786CBF /* Reys Monstera.otf in Resources */,
+				28B0D3DF2922774000786CBF /* play with fire.mp3 in Resources */,
+				28B0D3D12920EED500786CBF /* Adilla and Rita.otf in Resources */,
+				28B0D3D32920EEE000786CBF /* Amboera Script.otf in Resources */,
+				28B0D3CB2920EEB100786CBF /* Aachen Typewriter.ttf in Resources */,
+				28B0D3E12922789900786CBF /* ice cream.mp3 in Resources */,
 				28B0D38E2919542B00786CBF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,6 +207,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				28B0D38C2919542B00786CBF /* ContentView.swift in Sources */,
+				28B0D3A4291B927600786CBF /* members.swift in Sources */,
 				28B0D38A2919542B00786CBF /* blackpinkcustomApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,6 +339,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"blackpinkcustom/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = blackpinkcustom/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -297,6 +369,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"blackpinkcustom/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = blackpinkcustom/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

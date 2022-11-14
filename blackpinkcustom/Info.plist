@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Amberstone.otf</string>
+		<string>Littlecandy.otf</string>
+		<string>Dimetone.otf</string>
+		<string>Reys Monstera.otf</string>
+		<string>Aachen Typewriter.ttf</string>
+		<string>FatypeDEMO.otf</string>
+		<string>Adilla and Rita.otf</string>
+		<string>Amboera Script.otf</string>
+		<string>TelfordTown.ttf</string>
+	</array>
+</dict>
+</plist>
